@@ -1,0 +1,1032 @@
+{
+  "meta": {
+    "title": "Stamina Booster — Personalized Wellness Plan",
+    "description": "Personalized stamina & wellness PDF with exercise photos, nutrition visuals, and honest timelines."
+  },
+  "common": {
+    "brand": "Stamina Booster",
+    "getPlan": "Get my plan",
+    "buildPlan": "Build my plan",
+    "howItWorks": "How it works",
+    "seePricing": "See pricing",
+    "faqPricing": "FAQ & pricing",
+    "oneTime": "one-time",
+    "from": "From",
+    "back": "Back",
+    "next": "Next",
+    "menu": "Menu",
+    "close": "Close",
+    "skipToContent": "Skip to main content",
+    "funnelFooter": "Educational content only · Not medical advice · 18+",
+    "funnelTrust": "Secure · Private · 18+",
+    "reportVersion": "report_v1.0",
+    "gstNote": "Prices in INR · GST as applicable",
+    "upiSoon": "UPI & local payments coming soon"
+  },
+  "nav": {
+    "gap": "The gap",
+    "guide": "Lifestyle guide",
+    "how": "How it works",
+    "pricing": "Pricing",
+    "login": "Login",
+    "account": "My account",
+    "dashboard": "Dashboard",
+    "language": "Language",
+    "ask": "Ask us anything",
+    "colMove": "Explore",
+    "colFuel": "Start",
+    "colAccount": "Account"
+  },
+  "auth": {
+    "signupTitle": "Create Your Account",
+    "signupEyebrow": "Join Stamina Booster",
+    "signupSubtitle": "A secure account keeps your wellness questionnaire and personal plan in one place.",
+    "loginTitle": "Welcome Back",
+    "loginEyebrow": "Sign in",
+    "loginSubtitle": "Sign in with the email and password you used when you registered.",
+    "verifyTitle": "Verify your account",
+    "verifySubtitle": "Enter the 6-digit code sent to your email.",
+    "accountTitle": "My account",
+    "accountSubtitle": "Profile and purchased wellness reports.",
+    "fullName": "Full name",
+    "fullNamePlaceholder": "Your name",
+    "email": "Email",
+    "phone": "Mobile number",
+    "phoneHint": "10-digit Indian mobile (SMS OTP will be sent)",
+    "password": "Password",
+    "confirmPassword": "Confirm password",
+    "passwordHint": "Use at least 8 characters you don’t reuse on other sites.",
+    "showPassword": "Show password",
+    "hidePassword": "Hide password",
+    "signupFeature1": "Plans reflect your BMI, activity, sleep, stress, and diet answers — structured, transparent logic.",
+    "signupFeature2": "See your wellness score as soon as you finish the questionnaire.",
+    "signupFeature3": "Your questionnaire, preview, and orders stay linked to this account only.",
+    "loginFeature1": "Resume the 5-step questionnaire or your preview anytime",
+    "loginFeature2": "Order history & PDF downloads live in My account",
+    "loginId": "Email or phone",
+    "loginPlaceholder": "you@example.com or 9876543210",
+    "loginEmailPlaceholder": "you@example.com",
+    "signup": "Sign up",
+    "signingUp": "Creating account…",
+    "login": "Log in",
+    "loggingIn": "Signing in…",
+    "logout": "Log out",
+    "hasAccount": "Already have an account?",
+    "noAccount": "Don't have an account?",
+    "verifyEmailTitle": "Email verification",
+    "verifyEmailBody": "Check your inbox for a 6-digit code.",
+    "verifyPhoneTitle": "Phone verification",
+    "verifyPhoneBody": "Check SMS on your mobile for a 6-digit code.",
+    "emailCode": "Email code",
+    "phoneCode": "SMS code",
+    "verifyEmail": "Verify email",
+    "verifyPhone": "Verify phone",
+    "verified": "Verified",
+    "resend": "Resend code",
+    "resendSuccess": "A new code was sent to your email.",
+    "continueToIntake": "Continue to questionnaire",
+    "verifyMissingUser": "Start signup again to receive verification codes.",
+    "newPlan": "Build new plan",
+    "orderHistory": "Your reports",
+    "noOrders": "No purchased reports yet.",
+    "download": "Download PDF",
+    "ordersLoading": "Loading your orders…",
+    "dashboardSectionTitle": "Your wellness hub",
+    "dashboardWellnessTitle": "Latest plan snapshot",
+    "dashboardWellnessEmpty": "Complete the questionnaire to see your readiness score here.",
+    "dashboardWellnessScore": "Readiness {score} / 10",
+    "dashboardContinue": "Continue questionnaire",
+    "dashboardViewPreview": "View preview",
+    "aiAssistantTitle": "Plan assistant",
+    "aiAssistantBody": "Re-run the questionnaire anytime to refresh recommendations as your habits change.",
+    "aiAssistantCta": "Update my intake",
+    "checkoutCta": "Go to checkout",
+    "profileCardTitle": "Profile",
+    "devOtpTitle": "Development verification code",
+    "devOtpHint": "Use this code to verify. If email failed, fix EMAIL_FROM in .env.local (cannot use @gmail.com) or verify a domain at resend.com.",
+    "orContinueWith": "Or continue with",
+    "continueWithGoogle": "Continue with Google",
+    "continueWithGithub": "Continue with GitHub",
+    "socialProviderGoogle": "Google",
+    "socialProviderGithub": "GitHub",
+    "socialComingSoon": "{provider} sign-in is coming soon. Use email for now.",
+    "termsPrefix": "I agree to the",
+    "termsLink": "Terms & Conditions",
+    "termsAnd": "and",
+    "privacyLink": "Privacy Policy",
+    "trustSecure": "Encrypted",
+    "trustPrivate": "Private",
+    "trustSimple": "Simple sign-in",
+    "backToHome": "Back to {brand}",
+    "authBadgeLogin": "Protected access",
+    "authBadgeSignup": "Secure signup",
+    "forgotPasswordLink": "Forgot password?",
+    "forgotPasswordTitle": "Password help",
+    "forgotPasswordSubtitle": "Self-service reset is not enabled yet.",
+    "forgotPasswordBody": "If you still have access to the email you used at signup, you can create a new account with that address (you will need a different email if the address is already taken). For production deployments, we recommend adding a secure email-based reset flow. Until then, use a password manager and store your credentials safely.",
+    "forgotPasswordBackToLogin": "Back to sign in",
+    "forgotPasswordCreateAccount": "Create an account",
+    "rememberMe": "Remember me",
+    "loginSuccess": "Welcome back! Redirecting…",
+    "signupSuccess": "Account created! Redirecting…",
+    "secureNote": "256-bit encryption protects your credentials in transit.",
+    "passwordStrengthLabel": "Password strength",
+    "passwordStrengthWeak": "Weak",
+    "passwordStrengthFair": "Fair",
+    "passwordStrengthGood": "Good",
+    "passwordStrengthStrong": "Strong",
+    "passwordRuleLength": "8+ characters",
+    "passwordRuleCase": "Upper & lower case",
+    "passwordRuleNumber": "Includes a number",
+    "passwordRuleSymbol": "Includes a symbol",
+    "errors": {
+      "signup": "Signup failed",
+      "login": "Login failed",
+      "verify": "Verification failed",
+      "resend": "Could not resend code",
+      "network": "Network error — try again",
+      "passwordMatch": "Passwords do not match",
+      "invalidEmail": "Enter a valid email address (e.g. name@gmail.com)",
+      "termsRequired": "Please accept the Terms & Conditions and Privacy Policy to continue.",
+      "fieldRequired": "This field is required",
+      "nameTooShort": "Please enter at least 2 characters",
+      "passwordTooShort": "Use at least 8 characters"
+    }
+  },
+  "hero": {
+    "badge": "Personalized wellness reports",
+    "line1": "Stamina you",
+    "line2a": "Should",
+    "line2b": "build",
+    "line3a": "With",
+    "line3b": "habits",
+    "line4a": "Not",
+    "line4b": "hype",
+    "exercise": "Exercise",
+    "nutrition": "Nutrition",
+    "matching": "Smart matching",
+    "price": "₹799"
+  },
+  "studio": {
+    "headline": "A personalised stamina plan — exercise, nutrition, and honest timelines.",
+    "tagline": "BOOST YOUR STAMINA™",
+    "rotate": ["Stamina", "Energy", "Endurance"],
+    "viewWorks": "Selected pages",
+    "worksTitle": "Selected pages",
+    "worksCount": "6",
+    "viewAll": "View the full plan",
+    "works": [
+      { "label": "Daily walk" },
+      { "label": "Mobility" },
+      { "label": "Nutrition" },
+      { "label": "Swim sets" },
+      { "label": "Strength" },
+      { "label": "Breakfast" }
+    ],
+    "aboutTitle": "We map exercise, food, and recovery to the body you actually have.",
+    "aboutBody": "The team is a mix of coaching, nutrition, and product thinking. What we share is a habit of starting with your answers — BMI, sleep, stress, and goals — then writing a plan you can follow without fake day-count promises.",
+    "aboutCta": "How it works",
+    "pillars": [
+      {
+        "num": "01",
+        "title": "Move",
+        "body": "Walks, strength, and recovery picked from your activity level — with photos so the next session is obvious.",
+        "items": ["Daily walks", "Strength work", "Mobility", "Swim options"]
+      },
+      {
+        "num": "02",
+        "title": "Fuel",
+        "body": "Foods to eat more of, and what to limit, shown as plates — not a lecture.",
+        "items": ["Protein plates", "Breakfast grids", "What to limit", "Hydration"]
+      },
+      {
+        "num": "03",
+        "title": "Recover",
+        "body": "Sleep, stress, and screening flags shape the tone of your plan. Educational only — not medical advice.",
+        "items": ["Sleep windows", "Stress notes", "Honest timelines", "18+ screening"]
+      }
+    ],
+    "bannerTitle": "HONEST TIMELINES",
+    "bannerSub": "No guaranteed day counts.",
+    "bannerBody": "Most people notice energy and habit gains in 4–8 weeks with consistency. Individual results vary. This is lifestyle education, not a diagnosis.",
+    "awardsTitle": "What’s inside",
+    "awards": [
+      "Personal wellness score from your questionnaire",
+      "Exercise pages with photos and frequency",
+      "Nutrition grids with foods to eat or limit",
+      "A four-week tracker you can actually use"
+    ]
+  },
+  "home": {
+    "statTitle": "How many wellness plans have you started but never",
+    "statHighlight": "finished?",
+    "outOf10": "Out of 10",
+    "statSub": "Never complete the lifestyle changes they started.",
+    "statCause": "This is caused by",
+    "marquee1": "NO CLEAR PLAN ",
+    "marquee2": "UNREALISTIC TIMELINES ",
+    "marquee3": "ZERO VISUAL GUIDANCE ",
+    "traps": [
+      { "title": "Generic Advice", "tag": "A TRAP", "body": "Borrowed gym tips that ignore your sleep, BMI, and actual week." },
+      { "title": "Guaranteed Day Counts", "tag": "A LIE", "body": "Nobody can promise a date for stamina. We give a 4–8 week range." },
+      { "title": "No Visual Guidance", "tag": "A TRAP", "body": "A wall of text is easy to skip. Photos make the next session obvious." },
+      { "title": "Ignoring Medical Context", "tag": "A LIE", "body": "Screening flags belong in the plan — they are not a diagnosis." },
+      { "title": "One-Size-Fits-All Diets", "tag": "A TRAP", "body": "Eat-more and limit grids follow your answers, not a celebrity plate." }
+    ],
+    "pulseTitle": "The Pulse",
+    "solutionTitle1": "Context.",
+    "solutionTitle2": "Practice.",
+    "solutionTitle3": "Confidence.",
+    "solutionSub": "The antidote to vague wellness advice",
+    "solutionLabel": "The solution",
+    "solutionHeadline": "Generic advice missed it. We map it to",
+    "solutionYou": "you",
+    "solutionBody": "No passive PDF filler. Exercise photos, food visuals, BMI bands, and honest 4–8 week ranges.",
+    "howTitle1": "How it",
+    "howTitle2": "works",
+    "steps": [
+      {
+        "title": "Answer the questionnaire",
+        "body": "A short set of questions about you — body, habits, and goals."
+      },
+      {
+        "title": "Complete payment",
+        "body": "When you finish, you go straight to checkout. One step, then the plan is yours."
+      },
+      {
+        "title": "Open your full plan",
+        "body": "After payment, download your PDF and use it from your dashboard."
+      }
+    ],
+    "ctaTitle": "Your plan",
+    "ctaBody": "Answer a short questionnaire. We prepare your personalised PDF, then you can get it in one step. Results vary; not medical advice.",
+    "guidePaywall": {
+      "eyebrow": "In your report",
+      "title": "Your exercise, food, and habit tables",
+      "body": "How-to steps, foods to eat or skip, and daily routines come with your personalised PDF.",
+      "lockedHint": "Included in your PDF",
+      "sections": ["Exercises to do", "What to avoid", "Foods to eat"]
+    },
+    "faq": {
+      "eyebrow": "Questions",
+      "title": "Frequently asked questions",
+      "subtitle": "Everything you need to know before building your plan.",
+      "items": [
+        {
+          "q": "Is this medical advice?",
+          "a": "No. Stamina Booster provides educational lifestyle content only. Always consult a healthcare provider for medical concerns."
+        },
+        {
+          "q": "How is my plan personalized?",
+          "a": "Your age, BMI, activity, goals, and lifestyle answers map to exercise picks, food grids, and copy variants through a transparent, structured engine."
+        },
+        {
+          "q": "When will I see results?",
+          "a": "We never promise fixed day counts. Many people notice energy and habit gains in 4–8 weeks with consistency; individual results vary."
+        },
+        {
+          "q": "What happens after the questionnaire?",
+          "a": "You go to payment next. After checkout, the full plan and PDF are unlocked."
+        },
+        {
+          "q": "Is my data private?",
+          "a": "Yes. Answers are used only to generate your report. We do not sell health data."
+        }
+      ]
+    },
+    "privacy": {
+      "eyebrow": "Privacy & security",
+      "title": "Your data stays yours",
+      "items": [
+        {
+          "title": "Encrypted sessions",
+          "body": "JWT auth in httpOnly cookies. Passwords hashed with bcrypt — never stored in plain text."
+        },
+        {
+          "title": "Private by design",
+          "body": "Questionnaire answers are used only to generate your report. We do not sell health data."
+        },
+        {
+          "title": "Educational only",
+          "body": "Not medical advice. Screening flags prompt safer exercise choices and doctor consultation reminders."
+        }
+      ]
+    }
+  },
+  "pricing": {
+    "title": "Pricing",
+    "subtitle": "One plan. Full report. No subscription required.",
+    "popular": "Most popular",
+    "planName": "Personal Wellness Plan",
+    "price": "₹799",
+    "currency": "INR",
+    "guarantee": "Educational product only. If the report fails to generate, contact support for a redelivery.",
+    "oneTimeTitle": "One-time report",
+    "oneTimeBody": "Prefer a single PDF purchase? Our classic ₹799 wellness report is still available at checkout.",
+    "features": [
+      "Full personalized PDF (no watermark)",
+      "Exercise cards with photos & steps",
+      "Nutrition eat-more & limit grids",
+      "BMI profile & readiness score",
+      "4-week habit tracker",
+      "Honest 4–8 week timeline language",
+      "Email delivery with download link"
+    ],
+    "faqTitle": "FAQ",
+    "faq": [
+      {
+        "q": "Is this medical advice?",
+        "a": "No. Stamina Booster provides educational lifestyle content only. Always consult a healthcare provider for medical concerns."
+      },
+      {
+        "q": "How is my plan personalized?",
+        "a": "Your age, BMI, activity, goals, and lifestyle answers map to exercise picks, food grids, and copy variants through a transparent, structured engine."
+      },
+      {
+        "q": "When will I see results?",
+        "a": "We never promise fixed day counts. Many people notice energy and habit gains in 4–8 weeks with consistency; individual results vary."
+      },
+      {
+        "q": "What do I get after purchase?",
+        "a": "A full PDF download plus an email with your link. Preview is watermarked; the paid report is complete."
+      },
+      {
+        "q": "Can I get a refund?",
+        "a": "If your PDF fails to generate, we will redeliver. Contact support with your order reference."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Finally a plan with exact exercises and foods — with pictures. No vague advice.",
+        "author": "Arjun M.",
+        "role": "Chennai, 34"
+      },
+      {
+        "quote": "The preview sold me. I saw my BMI and routine before paying.",
+        "author": "Karthik S.",
+        "role": "Bengaluru, 41"
+      },
+      {
+        "quote": "Medical notice when I flagged health concerns. Felt responsible.",
+        "author": "Rahul K.",
+        "role": "Mumbai, 38"
+      }
+    ],
+    "stats": {
+      "plansGenerated": "Beta",
+      "avgCompletionMinutes": "4",
+      "satisfactionLabel": "Beta cohort feedback"
+    },
+    "tiers": {
+      "monthly": "Monthly",
+      "yearly": "Yearly",
+      "lifetime": "Lifetime",
+      "monthlyPrice": "₹499",
+      "monthlyPeriod": "per month · cancel anytime",
+      "yearlyPrice": "₹3,999",
+      "yearlyPeriod": "per year · save 33%",
+      "lifetimePrice": "₹9,999",
+      "lifetimePeriod": "one-time · forever access",
+      "bestValue": "Best value",
+      "compareTitle": "Feature comparison",
+      "features": [
+        "Full personalized wellness report",
+        "PDF download & re-downloads",
+        "AI-powered recommendations",
+        "Progress & habit tracking",
+        "Exercise & nutrition dashboards"
+      ],
+      "compare": [
+        {
+          "feature": "Full report unlock",
+          "monthly": "✓",
+          "yearly": "✓",
+          "lifetime": "✓"
+        },
+        {
+          "feature": "PDF export",
+          "monthly": "✓",
+          "yearly": "✓",
+          "lifetime": "✓"
+        },
+        {
+          "feature": "Progress tracking",
+          "monthly": "✓",
+          "yearly": "✓",
+          "lifetime": "✓"
+        },
+        {
+          "feature": "Priority updates",
+          "monthly": "—",
+          "yearly": "✓",
+          "lifetime": "✓"
+        }
+      ]
+    }
+  },
+  "social": {
+    "eyebrow": "Quotes",
+    "title": "They say it better than we do",
+    "plansLabel": "plans generated",
+    "minLabel": "avg. to complete",
+    "resultsVary": "Individual results vary."
+  },
+  "sampleReport": {
+    "eyebrow": "Sample pages",
+    "title": "See what you get",
+    "pages": [
+      { "title": "Cover & profile", "subtitle": "Personalized name, BMI, readiness score" },
+      { "title": "Exercise plan", "subtitle": "Photo cards with steps & frequency" },
+      { "title": "Nutrition", "subtitle": "Eat more & limit grids with visuals" }
+    ],
+    "unlock": "Unlock full report"
+  },
+  "intake": {
+    "pageTitle": "Blood flow plan",
+    "pageSubtitle": "A men’s plan for firmer erections and stamina — through training, sleep, and food. Educational only, not a medical treatment.",
+    "onboardingEyebrow": "Your questionnaire",
+    "onboardingBullet1": "Autosaves on this device; cloud backup when you’re signed in",
+    "onboardingBullet2": "Sleep, stress, training, and blood-flow habits shape this men’s plan — not medical advice",
+    "onboardingBullet3": "When you finish, we prepare your personalised PDF from your answers",
+    "lifestyleSections": {
+      "habits": "Daily habits",
+      "substances": "Substances & diet",
+      "screening": "Health screening"
+    },
+    "steps": ["Welcome", "Goal", "About you", "Body", "Lifestyle", "Habits", "Screening", "Review"],
+    "welcomeBody": "Answer a few questions so we can match exercise, food, and recovery to blood flow and erection quality. This is lifestyle education for men — not a diagnosis or a guaranteed result.",
+    "menOnlyNote": "Stamina Booster is built for men. Firmer erections usually track with blood flow, sleep, stress, and training — we do not ask a gender choice.",
+    "welcomeBullets": [
+      "Cardio, pelvic-floor, and strength habits that support erection blood flow",
+      "Honest timelines from sleep, stress, and activity — no guaranteed day counts",
+      "Private account — your answers stay yours"
+    ],
+    "privacyTitle": "Privacy protected",
+    "privacyBody": "Answers are stored securely and used only to build your report. Not shared with third parties.",
+    "goalChoices": {
+      "stamina": "Increase stamina and endurance",
+      "energy": "More daily energy",
+      "erections": "Improve erections and blood flow",
+      "health": "Better overall fitness",
+      "weightLoss": "Support healthy weight"
+    },
+    "previewStepBody": "Based on your answers, here is an estimated wellness score. Next you’ll go to payment for your personalised PDF.",
+    "previewScoreLabel": "Estimated wellness score",
+    "previewScoreHint": "Out of 100 · final score may adjust after AI plan generation",
+    "previewStepFootnote": "Educational estimate only — not a medical diagnosis.",
+    "stepOf": "Step {current} of {total} · {pct}%",
+    "stepProgressLabel": "Questionnaire steps",
+    "openingPreview": "Opening payment…",
+    "routeLoadingStart": "Loading questionnaire…",
+    "draftSaved": "Draft saved",
+    "liveBmiTitle": "Live BMI estimate",
+    "bmiRangeHint": "Neutral range guide — not a diagnosis.",
+    "saving": "Saving plan…",
+    "name": "Full name",
+    "namePlaceholder": "Your name",
+    "age": "Age",
+    "sex": "Sex",
+    "weight": "Weight",
+    "height": "Height",
+    "heightFeet": "Feet",
+    "heightInches": "Inches",
+    "heightFtOption": "Feet & inches",
+    "unit": "Unit",
+    "activity": "Activity level",
+    "dietPreference": "Diet preference",
+    "sleepHours": "Sleep per night",
+    "stressLevel": "Stress level",
+    "exerciseMinutes": "Exercise time",
+    "erectionQuality": "Erection quality now",
+    "erectionQualityOptions": {
+      "firm": "Usually firm",
+      "mixed": "Sometimes firm, sometimes soft",
+      "soft": "Usually soft or hard to keep"
+    },
+    "smoking": "Do you smoke?",
+    "smokingYes": "Yes",
+    "smokingNo": "No",
+    "alcohol": "Alcohol",
+    "screening": "Health notes",
+    "screeningIntro": "Tick any that apply. We keep the plan gentler if you flag a concern.",
+    "screeningWarning": "You selected health concerns — your plan will use gentler exercises. Please consult a healthcare provider before starting.",
+    "goal": "Primary goal",
+    "generate": "Generate my plan",
+    "sexOptions": {
+      "male": "Male",
+      "female": "Female",
+      "prefer_not": "Prefer not to say"
+    },
+    "dietOptions": {
+      "none": "No restrictions",
+      "vegetarian": "Vegetarian",
+      "vegan": "Vegan"
+    },
+    "sleepOptions": {
+      "under_6": "Under 6 hours",
+      "6_7": "6–7 hours",
+      "7_8": "7–8 hours",
+      "over_8": "Over 8 hours"
+    },
+    "stressOptions": {
+      "low": "Low",
+      "medium": "Medium",
+      "high": "High"
+    },
+    "exerciseTimeOptions": {
+      "under_20": "Under 20 min/day",
+      "20_40": "20–40 min/day",
+      "over_40": "Over 40 min/day"
+    },
+    "hints": {
+      "name": "Used on your personalized PDF report.",
+      "age": "Must be 18 or older (up to 75). Affects exercise intensity.",
+      "sex": "Helps tailor exercise and nutrition guidance.",
+      "weight": "Combined with height to calculate BMI for your plan.",
+      "height": "Accurate height improves BMI and exercise matching.",
+      "activity": "How active you are day-to-day, not just gym time.",
+      "diet": "Vegetarian and vegan options adjust food recommendations.",
+      "habits": "Short answers on smoke, drink, and diet.",
+      "screening": "Educational only — not a medical diagnosis.",
+      "goal": "Shapes which exercises and habits we prioritize — erections first if that is your aim.",
+      "erectionQuality": "A lifestyle snapshot of blood flow, not a medical diagnosis."
+    },
+    "errors": {
+      "name": "Please enter your name (at least 2 characters)",
+      "age": "Age must be between 18 and 75",
+      "weight": "Enter a realistic weight for this plan (45–180 kg or 100–400 lb)",
+      "height": "Enter a realistic height (150–210 cm or 4 ft 11 in–7 ft)",
+      "goal": "Choose the main goal for your stamina plan",
+      "erectionQuality": "Choose how erections feel most days",
+      "activity": "Select how active you are most days",
+      "sleep": "Select how long you usually sleep",
+      "stress": "Select your usual stress level",
+      "exercise": "Select how much time you can train",
+      "alcohol": "Select how often you drink alcohol",
+      "diet": "Select your diet preference",
+      "screening": "Select at least one screening option",
+      "network": "Network error",
+      "submit": "Submission failed"
+    },
+    "activityLevels": {
+      "sedentary": "Sedentary",
+      "light": "Light",
+      "moderate": "Moderate",
+      "active": "Active"
+    },
+    "alcoholLevels": {
+      "rarely": "Rarely",
+      "weekly": "Weekly",
+      "daily": "Daily"
+    },
+    "goals": {
+      "stamina": "Stamina",
+      "energy": "Energy",
+      "confidence": "Erections & blood flow",
+      "general_fitness": "General fitness"
+    },
+    "redFlags": {
+      "none": "None of these",
+      "chest_pain": "Chest pain when I exercise",
+      "persistent_ed": "Ongoing erection trouble",
+      "new_meds": "New meds that affect sex",
+      "severe_fatigue": "Severe tiredness I can't explain"
+    },
+    "heightFtHint": "Use feet and inches fields below",
+    "aiSubtext": "AI-assisted copy · structured profile matching",
+    "aiLoader": [
+      "Analyzing your profile…",
+      "Matching exercises and nutrition…",
+      "Building your personalized plan…"
+    ]
+  },
+  "preview": {
+    "noPlan": "No plan yet",
+    "completeFirst": "Complete the questionnaire first.",
+    "start": "Start questionnaire",
+    "title1": "Your plan",
+    "title2": "preview",
+    "subtitle": "Matched to your profile.",
+    "readyEyebrow": "All set",
+    "readyTitle": "Your PDF is ready",
+    "readyBody": "We built your plan from the answers you just gave. Get the PDF to see your exercises, meals, and daily routine.",
+    "readyIncludesTitle": "Inside your PDF",
+    "readyIncludes": [
+      {
+        "title": "Exercises matched to you",
+        "body": "How to do each move, how often, and why it fits your goal."
+      },
+      {
+        "title": "Foods to eat and skip",
+        "body": "Simple plates and portions based on your diet answers."
+      },
+      {
+        "title": "A 4-week habit tracker",
+        "body": "Sleep, movement, and daily check-ins you can follow at home."
+      }
+    ],
+    "readyCta": "Get my PDF",
+    "readyPriceNote": "One-time · includes GST as applicable",
+    "bmi": "BMI",
+    "medicalNotice": "Includes medical screening notice",
+    "pdfPreview": "Inside the report",
+    "generating": "(generating…)",
+    "unavailable": "Preview unavailable — try again from checkout.",
+    "buildingPdf": "Preparing your report…",
+    "pdfShowcaseBody": "Cover, profile, exercise photos, nutrition, and a four-week tracker — print-ready.",
+    "pdfPages": {
+      "cover": "Cover",
+      "coverHint": "Your name, date, and wellness index",
+      "profile": "Profile",
+      "profileHint": "BMI, age, and screening notes",
+      "move": "Exercise",
+      "moveHint": "Photo cards with frequency",
+      "fuel": "Nutrition",
+      "fuelHint": "Eat more, with portions",
+      "tracker": "Tracker",
+      "trackerHint": "Four weeks of daily check-ins"
+    },
+    "pdfFor": "Prepared for",
+    "pdfReader": "You",
+    "pdfLabelName": "Name",
+    "pdfLabelAge": "Age",
+    "pdfWeek": "Week {n}",
+    "pdfDocument": "The document",
+    "pdfDocumentHint": "Full PDF in a clean viewer. Open or download if you want the file.",
+    "pdfOpen": "Open PDF",
+    "pdfDownload": "Download",
+    "unlockCta": "Unlock full PDF — {price}",
+    "checkout": "Continue to checkout",
+    "medicalWarning": "Medical screening flagged — review the notice in your plan and consult a provider before intense exercise.",
+    "continuePurchase": "Continue to purchase (educational only)",
+    "noWatermark": "No watermark",
+    "emailDelivery": "Download from your account",
+    "allPages": "All exercise & food pages",
+    "readinessBandLow": "Room to build",
+    "readinessBandMid": "Solid base",
+    "readinessBandHigh": "Strong readiness",
+    "watermark": "Preview",
+    "checkoutSectionTitle": "Ready for your full report?",
+    "checkoutSectionSubtitle": "Unlock the complete PDF with every exercise block, meal plan, and lifestyle page.",
+    "goToCheckout": "Continue to checkout",
+    "unlockedSectionTitle": "Your full report is unlocked",
+    "unlockedSectionSubtitle": "Your full report is ready. Track habits and explore your plan from the dashboard.",
+    "goToDashboard": "Open dashboard",
+    "backToDashboard": "Back to dashboard",
+    "viewReports": "View reports",
+    "performanceGuideBadge": "Reference",
+    "performanceGuideTitle": "Men’s performance & lifestyle guide",
+    "performanceGuideBody": "Open our standalone educational HTML guide — exercises, foods, routines, and cautions. It complements your plan preview and opens in a new tab.",
+    "performanceGuideCta": "Open performance guide",
+    "performanceGuideNote": "Educational content only — not medical advice or a substitute for care from a licensed clinician.",
+    "performanceGuideIframeTitle": "Performance guide preview",
+    "routeLoadingPreview": "Loading your preview…",
+    "wellnessIndexTitle": "Wellness index",
+    "wellnessIndexHint": "A single score derived from your readiness signal (0–10) for quick tracking.",
+    "pillarReadiness": "Readiness",
+    "pillarHabits": "Habits",
+    "pillarNutrition": "Nutrition focus",
+    "pdfTeaserTitle": "Full report preview",
+    "pdfTeaserBody": "Details are intentionally softened until checkout — your paid PDF is sharp, complete, and watermark-free.",
+    "sectionPlanTitle": "Exercise & nutrition plan",
+    "sectionPlanBody": "Movements and foods matched to your BMI, activity level, and goals.",
+    "unlockGuide": "Unlock full guide",
+    "guideLocked": "Complete purchase to access the full performance guide.",
+    "planLocked": "Your matched exercises and foods unlock after payment."
+  },
+  "pricingOffer": {
+    "eyebrow": "Your exclusive offer",
+    "pageTitle": "Unlock your personalized plan",
+    "title": "Spin to unlock your discount",
+    "subtitle": "Your personalized wellness report is ready. Spin the wheel for a limited-time offer — valid for 10 minutes.",
+    "originalPriceLabel": "Original price",
+    "getOfferTitle": "Get Offer",
+    "specialOfferBadge": "Limited time",
+    "specialOfferMessage": "Special offer available! Spin the wheel up to three times to unlock your best price.",
+    "spinWinButton": "Spin & Win Discount",
+    "spinAgain": "Spin again",
+    "spinsRemaining": "{count, plural, one {# spin left} other {# spins left}}",
+    "spinsLimited": "Spins limited — offer exhausted",
+    "spinsExhaustedTitle": "Offer exhausted",
+    "spinsExhaustedBody": "You have used all three spins. Your exclusive checkout price is locked in.",
+    "standardCheckoutHint": "Your personalized report is ready at the standard member price.",
+    "modalEyebrow": "Exclusive discount wheel",
+    "modalTitle": "Spin for your discount",
+    "modalSubtitle": "{remaining, plural, one {# spin remaining} other {# spins remaining}} — burgundy, gold, and premium rewards await.",
+    "closeModal": "Close",
+    "spinHint": "Up to three spins. Your checkout price locks in when the wheel stops.",
+    "spinning": "Spinning…",
+    "spinCta": "Spin the wheel",
+    "listPriceLabel": "Full report value",
+    "spinToUnlock": "Spin to reveal your personalized price.",
+    "congratsTitle": "Congratulations!",
+    "congratsBody": "You unlocked {discount}% off your personalized wellness report.",
+    "was": "Was",
+    "now": "Your price",
+    "timerLabel": "Offer expires in",
+    "checkoutCta": "Claim offer & checkout",
+    "expiredTitle": "Offer expired",
+    "expiredBody": "Your promotional discount has expired. You can still purchase at the standard price.",
+    "payFullPrice": "Continue at ₹799"
+  },
+  "reportHtml": {
+    "watermark": "Preview",
+    "coverTitle": "Personal Stamina & Wellness Plan",
+    "coverSubtitle": "Your personalized exercise, nutrition, and lifestyle guide",
+    "preparedFor": "Prepared for",
+    "date": "Date",
+    "profileTitle": "Your profile",
+    "age": "Age",
+    "bmi": "BMI",
+    "goal": "Primary goal",
+    "readiness": "Readiness score",
+    "activity": "Activity level",
+    "exerciseTitle": "Exercise plan",
+    "nutritionTitle": "Nutrition plan",
+    "eatMore": "Eat more of",
+    "limitAvoid": "Limit or avoid",
+    "sampleDayTitle": "Sample day",
+    "meal": {
+      "breakfast": "Breakfast",
+      "lunch": "Lunch",
+      "dinner": "Dinner",
+      "snacks": "Snacks"
+    },
+    "timelineTitle": "What to expect",
+    "trackerTitle": "4-week habit tracker",
+    "trackerHabit": "Habit",
+    "week": "Week {n}",
+    "habitSleep": "Sleep 7+ hours",
+    "habitExercise": "Exercise session",
+    "habitAlcohol": "Alcohol-free day",
+    "habitMood": "Tracked mood 1–10",
+    "orderRef": "Order",
+    "fullReport": "Full personalized report",
+    "personalizedPlan": "Your personalized plan",
+    "completeGuide": "Complete performance guide",
+    "loadError": "Could not load this report. It may have expired or been removed."
+  },
+  "checkout": {
+    "title": "Checkout",
+    "subtitleStripe": "Secure payment · PDF emailed after purchase",
+    "subtitleDemo": "Preview purchase — no real charge. Complete checkout to generate your PDF.",
+    "acceptDisclaimer": "Please accept the educational disclaimer",
+    "disclaimerLabel": "I understand this is educational content, not medical advice.",
+    "email": "Email (for delivery)",
+    "name": "Name on order",
+    "demoCard": "Demo card",
+    "redirecting": "Redirecting…",
+    "getPlanPrice": "Get my plan — {price}",
+    "promoApplied": "Promotional {discount}% discount applied",
+    "demoPay": "Complete demo purchase",
+    "errors": {
+      "network": "Network error",
+      "submit": "Checkout failed"
+    },
+    "demoBannerTitle": "Preview purchase",
+    "demoBannerBody": "This environment uses a simulated card step only. No payment is processed — you still get a real generated PDF for testing.",
+    "valueHeadline": "Unlock your full wellness report",
+    "valueSub": "One-time purchase. No subscription. Encrypted payment with Stripe when live billing is enabled.",
+    "valueSubDemo": "One-time unlock. No subscription. Simulated card fields — no charge — your full PDF is still generated.",
+    "orderSummary": "Order summary",
+    "secureLabel": "Secure checkout",
+    "secureLabelDemo": "Protected session",
+    "trustEncrypted": "256-bit TLS encryption in production",
+    "trustProcessor": "Payments processed by Stripe",
+    "trustDelivery": "Instant PDF download after successful payment",
+    "trustEmail": "Order confirmation and downloads available in My account.",
+    "trustDemoTls": "Same HTTPS session as production — your data stays on our servers.",
+    "trustDemoNoCharge": "No payment processor — the card form is a flow preview only.",
+    "trustDemoPdf": "After you confirm, we generate your personalized PDF immediately.",
+    "billingUnavailable": "Live billing is not configured. Set PAYMENT_MODE=demo for preview checkout, or add Stripe keys and PAYMENT_MODE=stripe.",
+    "emailPlaceholder": "you@example.com",
+    "faqTitle": "Questions before you pay",
+    "faq1Q": "Is this a subscription?",
+    "faq1A": "No. You pay once for your personalized PDF. There are no recurring charges.",
+    "faq2Q": "What happens after I pay?",
+    "faq2A": "You receive a secure download link and can always revisit downloads from My account while logged in.",
+    "faq3Q": "Is my health data sold?",
+    "faq3A": "No. Your questionnaire is used only to generate your report and improve the product anonymously through analytics."
+  },
+  "success": {
+    "title": "Your plan is ready",
+    "subtitle": "Check your email if you provided one. Your full report preview is below.",
+    "orderRef": "Order reference",
+    "download": "Download your PDF",
+    "saveLink": "Save this link: {link}",
+    "demoNotice": "Generated via demo purchase — no payment was processed.",
+    "backHome": "Back to home",
+    "previewBadge": "Your report",
+    "previewTitle": "Complete performance guide",
+    "previewBody": "Choose English, Hindi, or Tamil below. Your profile from onboarding appears at the top, followed by the full guide. Download the PDF in your chosen language.",
+    "downloadInLanguage": "Download PDF ({language})",
+    "loadingPreview": "Loading your report…",
+    "previewUnavailable": "Report preview is loading. Refresh in a moment or open your dashboard.",
+    "openPreview": "Open preview page",
+    "openDashboard": "View in dashboard",
+    "preparingDownload": "Preparing your download…",
+    "confirmError": "If download fails, refresh in a moment or contact support with your order ID.",
+    "celebrateKicker": "Payment complete",
+    "celebrateTitle": "Your plan is ready",
+    "celebrateBody": "You're in. Your personalised blood-flow plan is waiting below — read it here or download the PDF.",
+    "celebrateCta": "See my plan"
+  },
+  "ageGate": {
+    "title": "18+ only",
+    "body": "Stamina Booster provides educational wellness content for adults. By continuing, you confirm you are 18 or older and understand this is not medical advice.",
+    "accept": "I am 18 or older",
+    "decline": "Leave this site"
+  },
+  "footer": {
+    "tagline": "Personalized wellness PDFs with exercise and nutrition visuals — built for credibility, not empty promises.",
+    "platform": "Platform",
+    "start": "Start questionnaire",
+    "pricingFaq": "Pricing & FAQ",
+    "legal": "Legal",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "ageNote": "18+ only · Educational — not medical advice",
+    "copyright": "© {year} Stamina Booster. All rights reserved.",
+    "letsStart": "Let’s start something",
+    "submit": "Submit",
+    "emailLabel": "Email",
+    "emailPlaceholder": "you@email.com",
+    "studio": "Studio"
+  },
+  "legal": {
+    "disclaimer": "This report is for educational and lifestyle purposes only. It is not medical advice, diagnosis, or treatment. Individual results vary. Consult a qualified healthcare provider before starting a new exercise program, especially if you have heart disease, diabetes, high blood pressure, or persistent sexual health concerns.",
+    "privacyTitle": "Privacy policy",
+    "privacySubtitle": "Last updated: 2026",
+    "privacyBody": [
+      "Stamina Booster collects information you provide in the questionnaire (name, age, body metrics, lifestyle answers) to generate your personalized report.",
+      "We use cookies for session management. Payment processing is handled by our payment provider when enabled; we do not store full card numbers.",
+      "PDFs may be stored temporarily on our servers or cloud storage to enable download links. You may request deletion by contacting support with your order reference.",
+      "We do not sell your health data. Analytics events are used to improve the product.",
+      "For questions: privacy@vitalitypath.example (replace with your domain)."
+    ],
+    "termsTitle": "Terms of use",
+    "termsSubtitle": "Last updated: 2026"
+  },
+  "planPreview": {
+    "exercises": "Your exercises",
+    "eatMore": "Eat more of",
+    "limit": "Limit or avoid"
+  },
+  "bmiCategories": {
+    "underweight": "underweight",
+    "normal": "normal",
+    "overweight": "overweight",
+    "obese": "obese"
+  },
+  "introGoals": {
+    "stamina": "stamina and endurance",
+    "energy": "daily energy",
+    "confidence": "firmer erections and blood flow",
+    "general_fitness": "general fitness",
+    "weight_loss": "healthy weight management"
+  },
+  "introTemplate": "{name}, this plan targets {goal} using habits that support blood flow, cardiovascular health, sleep, and nutrition. At age {age} with a BMI of {bmi} ({category}), your recommendations emphasize sustainable movement and realistic timelines — not guaranteed day counts.",
+  "notFound": {
+    "title": "This path isn't on the map",
+    "body": "The page you're looking for isn't part of Stamina Booster. Head home, or start a plan and we'll build the route for you.",
+    "home": "Return home",
+    "start": "Build my plan"
+  },
+  "dashboard": {
+    "eyebrow": "Member dashboard",
+    "profileLabel": "Signed in as",
+    "welcome": "Welcome back, {name}",
+    "welcomeSubtitle": "Your wellness score, account, and PDF reports in one place.",
+    "healthScore": "Health score",
+    "trackProgress": "Track progress",
+    "subscription": "Subscription",
+    "planPremium": "Premium member",
+    "planFree": "Free preview",
+    "subscriptionActive": "Full report access and PDF downloads are unlocked.",
+    "subscriptionFreeHint": "Upgrade to unlock the complete report and PDF download.",
+    "manageBilling": "Manage billing",
+    "recentReports": "Recent reports",
+    "viewAll": "View all",
+    "editProfile": "Edit profile",
+    "editOnboarding": "Edit health profile",
+    "nav": {
+      "label": "Dashboard navigation",
+      "home": "Home",
+      "reports": "Reports",
+      "progress": "Progress",
+      "nutrition": "Nutrition",
+      "exercises": "Exercises",
+      "settings": "Settings",
+      "billing": "Billing"
+    },
+    "reports": {
+      "title": "Your reports",
+      "subtitle": "Read your full HTML report in the dashboard or download the matching PDF.",
+      "generateFirst": "Generate your first plan",
+      "preview": "Preview",
+      "viewReport": "View report",
+      "backToList": "Back to reports"
+    },
+    "progress": {
+      "title": "Progress tracking",
+      "subtitle": "Check off weekly habits to stay accountable.",
+      "weeklyHabits": "This week",
+      "noPlan": "Complete the questionnaire to unlock personalized progress insights.",
+      "startIntake": "Start questionnaire",
+      "readinessHint": "Your latest readiness score is {score} / 10. Consistency over 4–8 weeks matters most."
+    },
+    "nutrition": {
+      "title": "Nutrition plan",
+      "subtitle": "Foods to emphasize and limit based on your intake.",
+      "empty": "No nutrition plan yet. Complete the questionnaire first.",
+      "cta": "Build my plan",
+      "eatMore": "Eat more",
+      "limit": "Limit or avoid",
+      "dietNote": "Diet preference: {diet}",
+      "fullReport": "View full report"
+    },
+    "exercises": {
+      "title": "Exercise plan",
+      "subtitle": "Movements matched to your BMI, activity, and goals.",
+      "empty": "No exercises yet. Complete the questionnaire first.",
+      "cta": "Build my plan",
+      "cardHint": "Sets, reps, and photos in your full PDF report.",
+      "medicalNotice": "Gentler exercises selected based on your screening answers. Consult a doctor before intense training."
+    },
+    "settings": {
+      "title": "Settings",
+      "subtitle": "Update your profile and notification preferences.",
+      "profileSection": "Profile",
+      "saveProfile": "Save profile",
+      "saving": "Saving…",
+      "saved": "Profile updated",
+      "saveError": "Could not save profile",
+      "notificationsSection": "Notifications",
+      "emailUpdates": "Email me when new reports or features are available",
+      "securitySection": "Security",
+      "passwordHint": "Password changes require a verified email flow (coming soon). Sign out on shared devices."
+    },
+    "billing": {
+      "title": "Billing",
+      "subtitle": "Manage your plan, upgrades, and payment history.",
+      "currentPlan": "Current plan",
+      "freePreview": "Preview access",
+      "premiumActive": "Thank you for supporting Stamina Booster.",
+      "upgradeHint": "Unlock the full report, PDF downloads, and premium dashboards.",
+      "upgrade": "View plans",
+      "viewReports": "View reports",
+      "checkout": "One-time checkout",
+      "history": "Billing history",
+      "noHistory": "No purchases yet."
+    }
+  },
+  "premium": {
+    "eyebrow": "Premium unlock",
+    "title": "Unlock your full report",
+    "body": "Upgrade to remove the preview lock and access your complete personalized wellness plan.",
+    "close": "Close dialog",
+    "cta": "Upgrade now",
+    "comparePlans": "Compare plans",
+    "lockedTitle": "80% of this report is locked",
+    "lockedBody": "Preview shows a sample. Upgrade for the complete PDF with exercises, meals, charts, and timelines.",
+    "unlockCta": "Unlock premium",
+    "features": [
+      "Complete unblurred wellness report",
+      "Professional PDF download",
+      "AI-powered recommendations",
+      "Progress tracking dashboard"
+    ]
+  },
+  "forgotPassword": {
+    "title": "Reset your password",
+    "subtitle": {
+      "email": "Enter the email you used at signup.",
+      "verify": "Enter the verification code we sent.",
+      "reset": "Choose a strong new password.",
+      "success": "Your password has been updated."
+    },
+    "step": "Step {current} of {total}",
+    "sendCode": "Send verification code",
+    "codeSent": "Verification code sent",
+    "demoCodeHint": "Demo mode: use code 123456. Production email delivery requires transactional email setup.",
+    "sentTo": "Code sent to {email}",
+    "codeLabel": "Verification code",
+    "invalidCode": "Invalid code — try 123456 in demo mode",
+    "verifyCode": "Verify code",
+    "changeEmail": "Use a different email",
+    "newPassword": "New password",
+    "savePassword": "Save new password",
+    "resetSuccess": "Password updated successfully",
+    "successBody": "You can now sign in with your new password.",
+    "backToLogin": "Back to sign in"
+  },
+  "verifyEmail": {
+    "title": "Verify your email",
+    "subtitle": "Enter the 6-digit code we sent after signup.",
+    "subtitleWithEmail": "Enter the code sent to {email}",
+    "demoHint": "Demo mode: use 123456 or any 6-digit code to continue.",
+    "successTitle": "Email verified",
+    "successBody": "Your account is ready. Continue to the questionnaire.",
+    "errorBody": "That code did not work. Try again or request a new code."
+  }
+}

@@ -1,0 +1,14 @@
+[
+  {"id":"salmon","title":"सैमन या तैलीय मछली","type":"eat","why":"ओमेगा-3 हृदय स्वास्थ्य के लिए","portion":"हथेली जितना, सप्ताह में 2–3 बार","imageKey":"salmon"},
+  {"id":"chicken","title":"दुबला मुर्गा","type":"eat","why":"प्रोटीन मांसपेशी और रिकवरी के लिए","portion":"भोजन में हथेली जितना","imageKey":"chicken"},
+  {"id":"eggs","title":"अंडे","type":"eat","why":"प्रोटीन और सूक्ष्म पोषक","portion":"2–3 अंडे","imageKey":"eggs"},
+  {"id":"yogurt","title":"दही","type":"eat","why":"प्रोटीन और आंत के लिए अच्छा — भारतीय भोजन का हिस्सा","portion":"1 कटोरी सादा दही; मीठी लस्सी कम","imageKey":"yogurt"},
+  {"id":"oats","title":"जई और साबुत अनाज","type":"eat","why":"स्थिर ऊर्जा और फाइबर","portion":"½–1 कप जई या ब्राउन राइस","imageKey":"oats"},
+  {"id":"greens","title":"पालक जैसी सब्जियां","type":"eat","why":"विटामिन, खनिज, फाइबर","portion":"दिन में 2 मुट्ठी","imageKey":"greens"},
+  {"id":"berries","title":"बेरी / मौसमी फल","type":"eat","why":"एंटीऑक्सीडेंट, कम चीनी","portion":"1 कप नाश्ते या स्नैक में","imageKey":"berries"},
+  {"id":"nuts","title":"बादाम, अखरोट","type":"eat","why":"स्वस्थ वसा और प्रोटीन","portion":"मुट्ठी भर (~30 ग्राम)","imageKey":"nuts"},
+  {"id":"soda","title":"मीठे पेय","type":"limit","why":"खाली कैलोरी, ब्लड शुगर","portion":"पानी या बिना चीनी चाय","imageKey":"soda"},
+  {"id":"alcohol","title":"अधिक शराब","type":"limit","why":"नींद और प्रदर्शन पर असर","portion":"कभी-कभी मध्यम मात्रा","imageKey":"alcohol"},
+  {"id":"fried","title":"तला हुआ फास्ट फूड","type":"limit","why":"संतृप्त वसा, वजन","portion":"ग्रिल या बेक विकल्प","imageKey":"fried"},
+  {"id":"late_meal","title":"देर रात भारी भोजन","type":"limit","why":"नींद और पाचन","portion":"सोने से 3 घंटे पहले हल्का भोजन","imageKey":"late_meal"}
+]

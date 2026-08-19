@@ -1,0 +1,61 @@
+{
+  "pricing": {
+    "planName": "Personal Wellness Plan",
+    "price": 799,
+    "currency": "INR",
+    "features": [
+      "Full personalized PDF (no watermark)",
+      "Exercise cards with photos & steps",
+      "Nutrition eat-more & limit grids",
+      "BMI profile & readiness score",
+      "4-week habit tracker",
+      "Honest 4–8 week timeline language",
+      "Email delivery with download link"
+    ],
+    "guarantee": "Educational product only. If the report fails to generate, contact support for a redelivery."
+  },
+  "testimonials": [
+    {
+      "quote": "Finally a plan that shows exactly which exercises and foods — with pictures. No vague 'eat clean' advice.",
+      "author": "James R.",
+      "role": "Beta user, 34"
+    },
+    {
+      "quote": "The preview sold me. I could see my BMI and routine before paying.",
+      "author": "Marcus T.",
+      "role": "Beta user, 41"
+    },
+    {
+      "quote": "Appreciated the medical notice when I flagged health concerns. Felt responsible, not salesy.",
+      "author": "David K.",
+      "role": "Beta user, 38"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is this medical advice?",
+      "a": "No. StaminaBoost provides educational lifestyle content only. Always consult a healthcare provider for medical concerns."
+    },
+    {
+      "q": "How is my plan personalized?",
+      "a": "A rule-based engine maps your age, BMI, activity, goals, and lifestyle answers to exercises, foods, and copy variants. Optional AI may enhance your intro paragraph when enabled."
+    },
+    {
+      "q": "When will I see results?",
+      "a": "We never promise fixed day counts. Many people notice energy and habit gains in 4–8 weeks with consistency; individual results vary."
+    },
+    {
+      "q": "What do I get after purchase?",
+      "a": "A full PDF download plus an email with your link. Preview is watermarked; the paid report is complete."
+    },
+    {
+      "q": "Can I get a refund?",
+      "a": "If your PDF fails to generate, we will redeliver. Contact support with your order reference."
+    }
+  ],
+  "stats": {
+    "plansGenerated": "2,400+",
+    "avgCompletionMinutes": "4",
+    "satisfactionLabel": "Beta cohort feedback"
+  }
+}

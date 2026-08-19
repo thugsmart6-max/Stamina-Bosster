@@ -1,0 +1,102 @@
+{
+  "walk": {
+    "url": "/media/walk.png",
+    "photographer": "Custom",
+    "unsplashLink": ""
+  },
+  "swim": {
+    "url": "/media/swim.png",
+    "photographer": "Custom",
+    "unsplashLink": ""
+  },
+  "squat": {
+    "url": "/media/squat.jpg",
+    "photographer": "Stock",
+    "unsplashLink": ""
+  },
+  "plank": {
+    "url": "/media/plank.jpg",
+    "photographer": "Custom",
+    "unsplashLink": ""
+  },
+  "stretch": {
+    "url": "/media/stretch.jpg",
+    "photographer": "Custom",
+    "unsplashLink": ""
+  },
+  "kegel": {
+    "url": "/media/kegel.png",
+    "photographer": "Custom",
+    "unsplashLink": ""
+  },
+  "bike": {
+    "url": "/media/bike.jpg",
+    "photographer": "Stock",
+    "unsplashLink": ""
+  },
+  "interval": {
+    "url": "/media/interval.jpg",
+    "photographer": "Custom",
+    "unsplashLink": ""
+  },
+  "salmon": {
+    "url": "/media/salmon.jpg",
+    "photographer": "Custom",
+    "unsplashLink": ""
+  },
+  "chicken": {
+    "url": "/media/chicken.jpg",
+    "photographer": "Custom",
+    "unsplashLink": ""
+  },
+  "eggs": {
+    "url": "/media/eggs.jpg",
+    "photographer": "Custom",
+    "unsplashLink": ""
+  },
+  "yogurt": {
+    "url": "/media/yogurt.jpg",
+    "photographer": "Stock",
+    "unsplashLink": ""
+  },
+  "oats": {
+    "url": "/media/oats.jpg",
+    "photographer": "Custom",
+    "unsplashLink": ""
+  },
+  "greens": {
+    "url": "/media/greens.jpg",
+    "photographer": "Custom",
+    "unsplashLink": ""
+  },
+  "berries": {
+    "url": "/media/berries.jpg",
+    "photographer": "Stock",
+    "unsplashLink": ""
+  },
+  "nuts": {
+    "url": "/media/nuts.jpg",
+    "photographer": "Custom",
+    "unsplashLink": ""
+  },
+  "soda": {
+    "url": "/media/soda.jpg",
+    "photographer": "Custom",
+    "unsplashLink": ""
+  },
+  "alcohol": {
+    "url": "/media/alcohol.jpg",
+    "photographer": "Custom",
+    "unsplashLink": ""
+  },
+  "fried": {
+    "url": "/media/fried.jpg",
+    "photographer": "Custom",
+    "unsplashLink": ""
+  },
+  "late_meal": {
+    "url": "/media/late_meal.jpg",
+    "photographer": "Custom",
+    "unsplashLink": ""
+  }
+}

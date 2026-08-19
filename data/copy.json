@@ -1,0 +1,32 @@
+{
+  "brand": "StaminaBoost",
+  "reportVersion": "report_v1.0",
+  "disclaimer": "This report is for educational and lifestyle purposes only. It is not medical advice, diagnosis, or treatment. Individual results vary. Consult a qualified healthcare provider before starting a new exercise program, especially if you have heart disease, diabetes, high blood pressure, or persistent sexual health concerns.",
+  "demoNotice": "Generated via demo purchase — no payment was processed.",
+  "medicalBlock": {
+    "title": "Important: speak with a healthcare provider",
+    "body": "Based on your responses, we recommend consulting a clinician before following an exercise or nutrition plan. Persistent erection difficulties, chest pain, sudden changes in sexual function, or symptoms while on new medications should be evaluated professionally. This report cannot replace medical care."
+  },
+  "timeline": {
+    "range_4_8_weeks": "Many people notice improvements in energy, confidence, and overall fitness within 4–8 weeks of consistent exercise, better sleep, and healthier eating. Sexual performance is influenced by stress, sleep, relationships, hormones, and medical factors — there is no fixed day count for improvement.",
+    "weeks_1_2": "Weeks 1–2: Build habits — consistent sleep schedule, begin walking or low-impact cardio, reduce heavy alcohol on key nights.",
+    "weeks_3_6": "Weeks 3–6: Increase training consistency; many people report better stamina and mood with 3–4 sessions per week.",
+    "weeks_6_8": "Weeks 6–8+: Maintain habits; track your own 1–10 energy and satisfaction weekly rather than comparing to others."
+  },
+  "dietVariants": {
+    "underweight": "Emphasize nutrient-dense meals: protein at each meal, healthy fats (olive oil, nuts, avocado), and regular eating times.",
+    "normal": "Use the plate method: half vegetables, quarter lean protein, quarter whole grains. Stay hydrated throughout the day.",
+    "overweight": "Focus on portion control, protein and fiber at meals, and reducing sugary drinks and late heavy meals. Small consistent changes outperform extreme diets."
+  },
+  "sampleDay": {
+    "breakfast": "Plain curd (dahi) with fruit or a small handful of nuts, or eggs with roti or idli and vegetables.",
+    "lunch": "Grilled chicken or fish with a large salad, olive oil dressing, and quinoa or brown rice.",
+    "dinner": "Lean protein, roasted vegetables, modest whole grains. Avoid very large meals within 3 hours of bed.",
+    "snacks": "Fruit, plain curd (dahi), or roasted chana — limit packaged snacks and fried namkeen."
+  },
+  "aiLoader": [
+    "Analyzing your profile…",
+    "Matching exercises and nutrition…",
+    "Building your personalized plan…"
+  ]
+}

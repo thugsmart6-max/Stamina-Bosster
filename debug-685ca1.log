@@ -1,0 +1,5 @@
+{"sessionId":"685ca1","hypothesisId":"H404-srv","location":"signup/route.ts:POST","message":"POST handler entered (file log)","data":{"url":"http://localhost:3000/api/auth/signup","mongoEnabled":true}}
+{"sessionId":"685ca1","hypothesisId":"H-MONGO-file","location":"signup/route.ts:catch","message":"signup catch","data":{"errName":"MongoServerSelectionError","mongoConnectivity":true,"duplicateKey":false}}
+{"sessionId":"685ca1","hypothesisId":"H404-srv","location":"signup/route.ts:POST","message":"POST handler entered (file log)","data":{"url":"http://localhost:3000/api/auth/signup","mongoEnabled":true}}
+{"sessionId":"685ca1","hypothesisId":"H-MONGO-file","location":"signup/route.ts:catch","message":"signup catch","data":{"errName":"MongoServerError","mongoConnectivity":false,"duplicateKey":true}}
+{"sessionId":"685ca1","hypothesisId":"H404-srv","location":"signup/route.ts:POST","message":"POST handler entered (file log)","data":{"url":"http://localhost:3000/api/auth/signup","mongoEnabled":true}}

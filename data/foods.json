@@ -1,0 +1,98 @@
+[
+  {
+    "id": "salmon",
+    "title": "Salmon or oily fish",
+    "type": "eat",
+    "why": "Omega-3 fats support heart and vascular health",
+    "portion": "Palm-sized serving, 2–3 times per week",
+    "imageKey": "salmon"
+  },
+  {
+    "id": "chicken",
+    "title": "Lean poultry",
+    "type": "eat",
+    "why": "Quality protein supports muscle and recovery",
+    "portion": "Palm-sized portion per meal",
+    "imageKey": "chicken"
+  },
+  {
+    "id": "eggs",
+    "title": "Eggs",
+    "type": "eat",
+    "why": "Protein and micronutrients for sustained energy",
+    "portion": "2–3 eggs per serving",
+    "imageKey": "eggs"
+  },
+  {
+    "id": "yogurt",
+    "title": "Curd (dahi)",
+    "type": "eat",
+    "why": "Protein and probiotics for gut health — a staple in Indian meals",
+    "portion": "1 katori (about 150 ml) plain curd; skip heavily sweetened lassi",
+    "imageKey": "yogurt"
+  },
+  {
+    "id": "oats",
+    "title": "Oats and whole grains",
+    "type": "eat",
+    "why": "Steady energy and fiber for digestion",
+    "portion": "½–1 cup cooked oats or brown rice",
+    "imageKey": "oats"
+  },
+  {
+    "id": "greens",
+    "title": "Leafy greens",
+    "type": "eat",
+    "why": "Vitamins, minerals, and fiber",
+    "portion": "2 fistfuls per day",
+    "imageKey": "greens"
+  },
+  {
+    "id": "berries",
+    "title": "Berries",
+    "type": "eat",
+    "why": "Antioxidants with lower sugar impact than sweets",
+    "portion": "1 cup as snack or with breakfast",
+    "imageKey": "berries"
+  },
+  {
+    "id": "nuts",
+    "title": "Nuts (almonds, walnuts)",
+    "type": "eat",
+    "why": "Healthy fats and protein in small amounts",
+    "portion": "Small handful (about 30 g)",
+    "imageKey": "nuts"
+  },
+  {
+    "id": "soda",
+    "title": "Sugary drinks",
+    "type": "limit",
+    "why": "Blood sugar spikes and empty calories",
+    "portion": "Replace with water or unsweetened tea",
+    "imageKey": "soda"
+  },
+  {
+    "id": "alcohol",
+    "title": "Heavy alcohol",
+    "type": "limit",
+    "why": "Can reduce sleep quality and performance",
+    "portion": "Limit to occasional moderate intake",
+    "imageKey": "alcohol"
+  },
+  {
+    "id": "fried",
+    "title": "Fried fast food",
+    "type": "limit",
+    "why": "High saturated fat may affect energy and weight",
+    "portion": "Choose grilled or baked options instead",
+    "imageKey": "fried"
+  },
+  {
+    "id": "late_meal",
+    "title": "Large late-night meals",
+    "type": "limit",
+    "why": "May disrupt sleep and digestion",
+    "portion": "Finish larger meals 3 hours before bed",
+    "imageKey": "late_meal"
+  }
+]

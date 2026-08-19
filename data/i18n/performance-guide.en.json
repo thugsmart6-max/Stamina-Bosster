@@ -1,0 +1,165 @@
+{
+  "title": "Improve erections & sexual performance",
+  "subtitle": "Educational lifestyle guide for men — habits, Indian foods, and when to see a doctor",
+  "quickSummary": "Walk 30 min daily, practice Kegels, eat greens/fish/nuts/whole grains, avoid smoking, fried food, excess sugar and alcohol, sleep 7–9 hours, manage stress, and check BP, cholesterol, and blood sugar regularly.",
+  "disclaimer": "Educational only — not medical advice. ED has many causes; see a urologist if symptoms persist 3+ months despite lifestyle changes.",
+  "sections": {
+    "exercisesDo": "Exercises to do",
+    "avoid": "What to avoid",
+    "foodsTamil": "Foods to eat — Tamil Nadu",
+    "foodsHindi": "Foods to eat — Hindi belt",
+    "foodsPan": "Foods to eat — pan-India",
+    "habitsSleep": "Sleep",
+    "habitsStress": "Stress reduction",
+    "habitsDaily": "Daily habits",
+    "preSex": "Pre-intimacy quick tips",
+    "routine": "Sample daily routine (Chennai desk worker)",
+    "doctor": "When to see a doctor"
+  },
+  "tableHeaders": {
+    "exercise": "Exercise",
+    "how": "How to do it",
+    "frequency": "Frequency",
+    "benefit": "Benefit",
+    "avoid": "Avoid",
+    "reason": "Reason",
+    "food": "Food",
+    "why": "Why it helps",
+    "action": "Action",
+    "habit": "Habit",
+    "what": "What to do",
+    "time": "Time",
+    "activity": "Activity",
+    "sign": "Sign",
+    "doctorAction": "Action"
+  },
+  "exercises": [
+    {
+      "name": "Kegel (pelvic floor)",
+      "how": "Tighten muscles used to stop urine; hold 2–3 sec, release",
+      "frequency": "10 reps × 5 sets/day",
+      "benefit": "Supports pelvic blood flow and rigidity"
+    },
+    {
+      "name": "Walking (aerobic)",
+      "how": "30 min moderate pace",
+      "frequency": "Daily",
+      "benefit": "Linked to lower ED risk; helps overweight men"
+    },
+    {
+      "name": "Running / swimming / cycling",
+      "how": "Moderate intensity",
+      "frequency": "3–4×/week",
+      "benefit": "Improves circulation"
+    },
+    {
+      "name": "Core work",
+      "how": "Side planks, mountain climbers, side lunges",
+      "frequency": "3×/week",
+      "benefit": "Stability and posture"
+    },
+    {
+      "name": "Yoga: Cobra (Bhujangasana)",
+      "how": "Lie on stomach, lift chest, hold 15–30 sec",
+      "frequency": "5×/day",
+      "benefit": "Pelvic blood flow"
+    },
+    {
+      "name": "Yoga: Bridge (Setu Bandhasana)",
+      "how": "Lie on back, lift hips, hold 15–30 sec",
+      "frequency": "5×/day",
+      "benefit": "Pelvic floor strength"
+    },
+    {
+      "name": "Deep breathing",
+      "how": "Inhale 4 sec, hold 4 sec, exhale 4 sec",
+      "frequency": "5–10 min/day",
+      "benefit": "Lowers stress hormones that affect arousal"
+    }
+  ],
+  "avoid": [
+    { "item": "Smoking", "reason": "Damages blood vessels; nicotine constricts flow" },
+    { "item": "Red/processed meats", "reason": "Worsens artery health" },
+    { "item": "Fried foods (vada, bajji, samosa, chips)", "reason": "Harms nitric oxide and arteries" },
+    { "item": "Sugary drinks & soda", "reason": "Reduces nitric oxide and erection quality" },
+    { "item": "Excess alcohol (>2 drinks/day)", "reason": "Liver, nerve, and hormone effects" },
+    { "item": "High-sodium foods (pickles, papad, chips)", "reason": "Blood pressure and circulation" },
+    { "item": "Maida items (biscuits, white bread, samosa)", "reason": "Artery health" },
+    { "item": "Sugar syrup sweets (jalebi, gulab jamun)", "reason": "Blood sugar spikes" },
+    { "item": "Anabolic steroids", "reason": "Testosterone and testicular health" },
+    { "item": "Sedentary lifestyle", "reason": "Strongly linked to ED risk" },
+    { "item": "Chronic stress & anxiety", "reason": "Adrenaline constricts vessels" },
+    { "item": "Long cycling (>1 hour)", "reason": "Perineal pressure on nerves/vessels" }
+  ],
+  "foodsTamil": [
+    { "food": "Murungakkai (drumstick) poriyal", "why": "Nitrates relax blood vessels" },
+    { "food": "Spinach / keerai poriyal", "why": "Nitrates boost nitric oxide" },
+    { "food": "Mackerel / nethili (sardines)", "why": "Omega-3 for arteries" },
+    { "food": "Roasted chana / groundnuts", "why": "Arginine for nitric oxide" },
+    { "food": "Pomegranate", "why": "Polyphenols and blood flow" },
+    { "food": "Watermelon", "why": "Citrulline supports circulation" },
+    { "food": "Almonds & walnuts", "why": "Vitamin E and zinc" },
+    { "food": "Coconut water", "why": "Hydration and electrolytes" }
+  ],
+  "foodsHindi": [
+    { "food": "Pumpkin seeds (kaddu ke beej)", "why": "Zinc for testosterone" },
+    { "food": "Dates + makhana", "why": "Amino acids and fertility support" },
+    { "food": "Ghee (1 tsp/day)", "why": "Healthy fats for hormones" },
+    { "food": "Saffron in warm milk", "why": "Traditional wellness tonic" },
+    { "food": "Beetroot salad", "why": "Nitrates for flow" },
+    { "food": "Jamun, grapes, apples", "why": "Flavonoids" },
+    { "food": "Dal + salad", "why": "Fiber and protein" }
+  ],
+  "foodsPan": [
+    { "food": "Spinach, methi, bathua", "why": "Nitrates relax vessels" },
+    { "food": "Oats, brown rice, whole grains", "why": "Heart and fiber" },
+    { "food": "Dark chocolate (70%+)", "why": "Flavonoids" },
+    { "food": "Coffee (2–3 cups/day max)", "why": "Moderate caffeine and flow" },
+    { "food": "Berries", "why": "Flavonoids" },
+    { "food": "Sprouts, chana, rajma", "why": "Fiber and protein" },
+    { "food": "Curd (dahi)", "why": "Protein and gut health" },
+    { "food": "Olive oil (moderate)", "why": "Healthy fats" }
+  ],
+  "habitsSleep": [
+    { "action": "Sleep 7–9 hours/night", "why": "Low sleep lowers testosterone" },
+    { "action": "Bed by 11 PM when possible", "why": "Deep-sleep hormone rhythm" },
+    { "action": "No phone 30 min before bed", "why": "Melatonin and sleep quality" },
+    { "action": "Cool, dark bedroom", "why": "Better sleep depth" }
+  ],
+  "habitsStress": [
+    { "action": "Deep breathing", "how": "4-4-4 pattern", "benefit": "Lowers adrenaline" },
+    { "action": "Meditation", "how": "10–15 min/day", "benefit": "Performance anxiety" },
+    { "action": "Yoga", "how": "Surya Namaskar, cobra, bridge", "benefit": "Cortisol and flow" },
+    { "action": "Talk to partner", "how": "Honest check-in", "benefit": "Reduces pressure" },
+    { "action": "Counseling if needed", "how": "Professional support", "benefit": "Mental health causes" }
+  ],
+  "habitsDaily": [
+    { "habit": "Hydration", "how": "3–4 L water/day", "benefit": "Blood volume and flow" },
+    { "habit": "Morning sunlight", "how": "10–15 min before 9 AM", "benefit": "Vitamin D" },
+    { "habit": "Healthy waist", "how": "Target waist < 40 in", "benefit": "Metabolic risk" },
+    { "habit": "Health checks", "how": "BP, lipids, sugar", "benefit": "Early ED causes" },
+    { "habit": "Light meal before intimacy", "how": "Wait 2–3 hr after heavy food", "benefit": "Blood flow routing" }
+  ],
+  "preSex": [
+    { "what": "10 deep breaths", "why": "Calms nervous system" },
+    { "what": "10 Kegel reps", "why": "Activates pelvic floor" },
+    { "what": "Skip heavy fried food & excess alcohol", "why": "Temporary performance dip" },
+    { "what": "Communicate with partner", "why": "Confidence and comfort" }
+  ],
+  "routine": [
+    { "time": "6:00 AM", "activity": "Warm water + sunlight" },
+    { "time": "6:30 AM", "activity": "30-min walk + Kegels" },
+    { "time": "7:00 AM", "activity": "Breakfast: rava upma + nuts" },
+    { "time": "1:00 PM", "activity": "Lunch: brown rice + poriyal + fish + dal" },
+    { "time": "4:00 PM", "activity": "Coconut water + roasted chana" },
+    { "time": "7:00 PM", "activity": "Dinner: chapati + greens + dal" },
+    { "time": "9:00 PM", "activity": "Yoga or breathing 10 min" },
+    { "time": "10:30 PM", "activity": "Sleep 7–9 hours" }
+  ],
+  "doctor": [
+    { "sign": "ED 3+ months despite lifestyle changes", "action": "See a urologist" },
+    { "sign": "Low drive + mood changes + fatigue", "action": "Check testosterone" },
+    { "sign": "High BP, cholesterol, or diabetes", "action": "Treat and monitor" },
+    { "sign": "ED after surgery or new medication", "action": "Medical review" }
+  ]
+}

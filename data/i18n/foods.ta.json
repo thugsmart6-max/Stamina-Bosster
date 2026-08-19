@@ -1,0 +1,14 @@
+[
+  {"id":"salmon","title":"சூரை / எண்ணெய் மீன்","type":"eat","why":"ஒமேகா-3 இதய ஆரோக்கியம்","portion":"உள்ளங்கை அளவு, வாரம் 2–3 முறை","imageKey":"salmon"},
+  {"id":"chicken","title":"மெலிந்த கோழி","type":"eat","why":"புரதம் தசை & மீட்புக்கு","portion":"உணவுக்கு உள்ளங்கை அளவு","imageKey":"chicken"},
+  {"id":"eggs","title":"முட்டை","type":"eat","why":"புரதம் & சிறு ஊட்டச்சத்து","portion":"2–3 முட்டை","imageKey":"eggs"},
+  {"id":"yogurt","title":"தயிர்","type":"eat","why":"புரதம் & குடல் ஆரோக்கியம் — தமிழ் உணவில் பொதுவானது","portion":"1 குவளை சாதா தயிர்; இனிப்பு லஸ்ஸி குறைவாக","imageKey":"yogurt"},
+  {"id":"oats","title":"ஓட்ஸ் & முழு தானியம்","type":"eat","why":"நிலையான ஆற்றல் & நார்ச்சத்து","portion":"½–1 கப் ஓட்ஸ் அல்லது பழுப்பு அரிசி","imageKey":"oats"},
+  {"id":"greens","title":"கீரைகள்","type":"eat","why":"வைட்டமின், தாது, நார்ச்சத்து","portion":"நாளொன்று 2 முஷ்டி","imageKey":"greens"},
+  {"id":"berries","title":"பெர்ரி / பழங்கள்","type":"eat","why":"ஆண்டி-ஆக்ஸிடன்ட்","portion":"1 கப் காலை அல்லது சிற்றுண்டி","imageKey":"berries"},
+  {"id":"nuts","title":"பாதாம், வாதுமை","type":"eat","why":"ஆரோக்கிய கொழுப்பு & புரதம்","portion":"சிறு கைப்பிடி (~30 கி)","imageKey":"nuts"},
+  {"id":"soda","title":"இனிப்பு பானங்கள்","type":"limit","why":"வெற்று கலோரி","portion":"தண்ணீர் அல்லது சர்க்கரை இல்லா தேநீர்","imageKey":"soda"},
+  {"id":"alcohol","title":"அதிக மது","type":"limit","why":"தூக்கம் & செயல்திறன்","portion":"அரிதாக மிதமான அளவு","imageKey":"alcohol"},
+  {"id":"fried","title":"பொரித்த உணவு","type":"limit","why":"நிறைவு கொழுப்பு","portion":"கிரில் அல்லது அடுப்பு வறுத்த","imageKey":"fried"},
+  {"id":"late_meal","title":"இரவு பெரிய உணவு","type":"limit","why":"தூக்கம் & செரிமானம்","portion":"படுக்க 3 மணி முன் முடிக்க","imageKey":"late_meal"}
+]

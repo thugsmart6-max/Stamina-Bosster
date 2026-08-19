@@ -1,0 +1,58 @@
+[
+  {
+    "id": "walk",
+    "title": "Brisk Walking",
+    "steps": ["Warm up with easy pacing for 3 minutes", "Walk at a brisk pace for 25–30 minutes", "Cool down with 5 minutes of easy walking"],
+    "frequency": "5 days per week",
+    "imageKey": "walk"
+  },
+  {
+    "id": "swim",
+    "title": "Swimming or Water Aerobics",
+    "steps": ["Start with 10 minutes of easy laps or water walking", "Build to 20–30 minutes at moderate effort", "Stretch shoulders and hips after"],
+    "frequency": "3 days per week",
+    "imageKey": "swim"
+  },
+  {
+    "id": "squat",
+    "title": "Bodyweight Squats",
+    "steps": ["Feet shoulder-width, chest up", "Lower until thighs are near parallel", "Drive through heels to stand — 2–3 sets of 10–12"],
+    "frequency": "3 days per week",
+    "imageKey": "squat"
+  },
+  {
+    "id": "plank",
+    "title": "Forearm Plank",
+    "steps": ["Elbows under shoulders, body in a straight line", "Brace core and glutes", "Hold 20–40 seconds — 3 sets"],
+    "frequency": "4 days per week",
+    "imageKey": "plank"
+  },
+  {
+    "id": "stretch",
+    "title": "Hip Flexor Stretch",
+    "steps": ["Kneel on one knee, squeeze glute on back leg", "Gently shift hips forward until mild stretch", "Hold 30 seconds each side — 2 rounds"],
+    "frequency": "Daily",
+    "imageKey": "stretch"
+  },
+  {
+    "id": "kegel",
+    "title": "Pelvic Floor Awareness",
+    "steps": ["Identify muscles used to stop urine flow briefly", "Contract 3 seconds, relax 3 seconds — 10 reps", "Practice relaxation during daily activities"],
+    "frequency": "Daily",
+    "imageKey": "kegel"
+  },
+  {
+    "id": "bike",
+    "title": "Cycling",
+    "steps": ["Adjust seat so knee is slightly bent at bottom pedal", "Ride 20–35 minutes at conversational pace", "Include 5-minute cool-down"],
+    "frequency": "3–4 days per week",
+    "imageKey": "bike"
+  },
+  {
+    "id": "interval",
+    "title": "Light Interval Training",
+    "steps": ["5-minute warm-up walk or jog", "1 minute faster / 2 minutes easy — repeat 6–8 times", "5-minute cool-down"],
+    "frequency": "2 days per week",
+    "imageKey": "interval"
+  }
+]
